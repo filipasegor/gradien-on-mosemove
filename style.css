@@ -1,0 +1,22 @@
+
+h1{
+  font-family: Helvetica,sans-serif;
+  font-size: 250px;
+  text-align: left;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  overflow: hidden;
+  -webkit-text-stroke-width: 1px;
+  background-image: radial-gradient(rgba(0,209,255,1),rgba(249,90,0,0.29));
+}
+
+.text{
+
+}
+
+img{
+  width: 40%;
+  position: absolute;
+  top: 20%;
+  left: 5%;
+}
