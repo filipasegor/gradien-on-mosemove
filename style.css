@@ -6,12 +6,7 @@ h1{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   overflow: hidden;
-  -webkit-text-stroke-width: 1px;
   background-image: radial-gradient(rgba(0,209,255,1),rgba(249,90,0,0.29));
-}
-
-.text{
-
 }
 
 img{
